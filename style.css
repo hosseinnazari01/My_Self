@@ -1,0 +1,20 @@
+p{
+    color: rgb(0, 98, 255);
+    font-size: medium;
+    text-align: right;
+    font-family: sans-serif;
+    font-style: normal;
+}
+ol{
+    font-size: medium;
+    font-family: sans-serif;
+    font-style: normal;
+    color:rgb(0, 17, 255);
+}
+body{
+    background-color: black;
+}
+a{
+    font-size: x-large;
+    background-color:deepskyblue;
+}
